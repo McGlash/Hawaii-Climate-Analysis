@@ -68,17 +68,17 @@ I designed a [Flask API](app.py) based on the above queries and used Flask to cr
 
 ### Temperature Analysis I
 
-* Hawaii is reputed to enjoy mild weather all year. Is there a meaningful difference between the temperature in, for example, June and December?
+Hawaii is reputed to enjoy mild weather all year. Is there a meaningful difference between the temperature in, for example, June and December?
 
 * Identify the average temperature in June at all stations across all available years in the dataset. Do the same for December temperature.
 
-* Use the t-test to determine whether the difference in the means, if any, is statistically significant. Will you use a paired t-test, or an unpaired t-test? Why?
+* Used the t-test to determine whether the difference in the means, if any, is statistically significant. 
 
 ## Step 3 - Further Climate Analysis 
 
 ### Temperature Analysis II
 
-* Usde a function to calculate the min, avg, and max temperatures for your trip using the matching dates from the previous year (i.e., use "2017-01-01" if your trip start date was "2018-01-01").
+* Used a function to calculate the min, avg, and max temperatures for your trip using the matching dates from the previous year (i.e., use "2017-01-01" if your trip start date was "2018-01-01").
 
 * Plotted the min, avg, and max temperature from your previous query as a bar chart.
 
