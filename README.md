@@ -32,7 +32,7 @@ I used Python and SQLAlchemy to do basic climate analysis and data exploration o
 
 ## Step 2 - Climate App
 
-I designed a [Flask API]() based on the above queries and used Flask to create web framework. 
+I designed a [Flask API](app.py) based on the above queries and used Flask to create web framework. 
 
 ### Routes
 
